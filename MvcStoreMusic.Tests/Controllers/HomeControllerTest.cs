@@ -15,6 +15,10 @@ namespace MvcStoreMusic.Tests.Controllers
         [TestMethod]
         public void Index()
         {
+
+
+
+
             // Arrange
             HomeController controller = new HomeController();
 
